@@ -1,6 +1,6 @@
 # Batch Calculator FAQ
 
-> As of **2026-09-16**. If features or limits change, the [batch calculator page](https://invoicetariff.com/en/batch) is authoritative.
+> As of **2026-09-28**. If features or limits change, the [batch calculator page](https://invoicetariff.com/en/batch) is authoritative.
 > 其他语言：[中文](../zh/batch-calculation-faq.md)
 
 The [SKU Batch Calculator](https://invoicetariff.com/en/batch) is built for "recalculate the whole catalog / settle landed cost" scenarios: upload an XLSX/CSV, price every row, and export the results with duties and fees. The most common questions are answered below.
@@ -25,7 +25,7 @@ No. Parsing and math run **entirely in your browser — data never leaves your m
 MPF/HMF are charged per entry, so the two scopes give different results:
 
 - **All SKUs on one entry**: MPF/HMF charged once, on the total value (consolidation is cheaper);
-- **Each SKU entered separately**: fees per row, each with the $33.58 MPF minimum.
+- **Each SKU entered separately**: fees per row, each with the per-entry MPF minimum ($34.58 in FY2027, from 2026-10-01).
 
 The results page states the selected scope, with fees shown as a separate total line.
 

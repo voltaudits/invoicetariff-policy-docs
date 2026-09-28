@@ -1,6 +1,6 @@
 # How U.S. Import Tariffs Are Calculated
 
-> As of **2026-09-16**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-09-28**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/01-us-tariff-calculation.md)
 
 ## The formula
@@ -9,7 +9,8 @@ Every layer of U.S. import duty is an *ad valorem* percentage applied to the **s
 
 ```text
 Total duty  = Customs value × (MFN rate + Section 301 rate + Section 232 rate + …)
-Fees        = MPF (0.3464% of value, min $33.58 / max $651.50 per entry)
+Fees        = MPF (0.3464% of value; per-entry min/max $33.58 / $651.50
+              through 2026-09-30, $34.58 / $670.86 from 2026-10-01 — 91 FR 48398)
             + HMF (0.125% of value, ocean only)
 Owed to CBP = Total duty + Fees
 ```
@@ -42,7 +43,7 @@ In practice, for most e-commerce and wholesale shipments the customs value is th
 | **MFN base rate** (HTSUS column 1, "General") | Tariff Act of 1930; HTSUS column 1 | Every country with normal trade relations | Fixed per 8/10-digit HTS code by the USITC: "Free", a percentage, or a specific / compound rate |
 | **China Section 301** (Lists 1–4A + four-year-review increases) | Trade Act of 1974 § 301 (USTR) | Goods of Chinese origin only | 25% on Lists 1–3, 7.5% on List 4A; higher review rates on targeted products (e.g. solar cells 50%) |
 | **Global Section 301 program** | Trade Act of 1974 § 301 (USTR, effective 2026-07-24) | Country-specific tiers — 12.5% for China, 10% for the UK, etc., with combined caps for some partners | Set per economy in FR 2026-15181; product exclusions published separately |
-| **Section 232** | Trade Expansion Act of 1962 § 232 (Presidential proclamations) | Specific sectors regardless of origin: steel & aluminum 50%, copper 50%, autos & parts 25%, timber 10%, furniture 25%, semiconductors 25%, pharmaceuticals (tiered from 2026-09-29) | By HTS scope listed in each proclamation annex; some derivatives on metal content only |
+| **Section 232** | Trade Expansion Act of 1962 § 232 (Presidential proclamations) | Specific sectors regardless of origin: steel & aluminum 50%, copper 50%, autos & parts 25%, timber 10%, furniture 25%, semiconductors 25%, pharmaceuticals (general tier 20% from 2026-09-29) | By HTS scope listed in each proclamation annex; some derivatives on metal content only |
 | **Section 338** | Tariff Act of 1930 § 338 (19 U.S.C. § 1338, Presidential proclamations) | Goods of countries found to discriminate against U.S. commerce — currently Canadian motor vehicles, dairy and alcoholic beverages (50%, since 2026-08-22) | Up to 50% by proclamation; stacks on other layers but not on goods already under Section 232 |
 | **AD / CVD** | Tariff Act of 1930 Title VII (Commerce / ITC) | Named producers or countries in a specific case | Case-by-case rates, often very high; deposited at entry, finalized later |
 | **MPF + HMF** | 19 U.S.C. § 58c (MPF); 26 U.S.C. § 4461 (HMF) | Every formal entry (HMF: ocean only) | MPF 0.3464% of value with per-entry floor and cap; HMF 0.125% |
@@ -76,7 +77,7 @@ In the example above the effective rate is roughly 37% even though no single pro
 
 ## What changes the answer
 
-- **Entry date.** Rates are time-bound: the global Section 301 program started 2026-07-24; MPF minimum and maximum change on 2026-10-01 (FY2027); Section 232 pharmaceutical tariffs begin 2026-09-29. The engine keys every rate to its effective window, and the [Tariff Radar](https://invoicetariff.com/en/radar) logs each change with its Federal Register source.
+- **Entry date.** Rates are time-bound: the global Section 301 program started 2026-07-24; MPF minimum and maximum rise on 2026-10-01 (FY2027 — $34.58 / $670.86, 91 FR 48398); Section 232 pharmaceutical tariffs begin 2026-09-29. The engine keys every rate to its effective window, and the [Tariff Radar](https://invoicetariff.com/en/radar) logs each change with its Federal Register source.
 - **Country of origin** — where the goods were made or last substantially transformed, not where they shipped from. Transshipping through a third country does not change origin.
 - **Entry type.** Formal entries pay ad valorem MPF; postal informal entries (≤ $2,500) pay a flat fee instead. HMF applies only to ocean arrivals.
 - **AD/CVD orders** on the product-country pair, which sit on top of everything above.

@@ -1,6 +1,6 @@
 # 批量测算（SKU Batch Calculator）常见问题
 
-> 信息截至 **2026-09-16**。功能与额度如有调整，以[批量测算页面](https://invoicetariff.com/zh/batch)为准。
+> 信息截至 **2026-09-28**。功能与额度如有调整，以[批量测算页面](https://invoicetariff.com/zh/batch)为准。
 > Other language: [English](../en/batch-calculation-faq.md)
 
 [SKU 批量测算](https://invoicetariff.com/zh/batch)面向「整目录重算关税 / 结算到岸成本」的场景：上传 XLSX/CSV，整表逐行试算，导出带税费的结果表。以下是最常见的问题。
@@ -25,7 +25,7 @@
 MPF/HMF 是按报关票数计收的规费，两种口径结果不同：
 
 - **所有 SKU 同一票报关**：MPF/HMF 只收一次，按全部货值合计计算（拼票成本更低）；
-- **每个 SKU 单独报关**：各行独立计 MPF（含每票最低 $33.58）。
+- **每个 SKU 单独报关**：各行独立计 MPF（含每票最低规费，FY2027 自 2026-10-01 起为 $34.58）。
 
 结果页会明确标注所选口径，规费单列在合计行。
 

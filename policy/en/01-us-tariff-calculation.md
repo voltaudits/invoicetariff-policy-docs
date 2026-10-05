@@ -1,6 +1,6 @@
 # How U.S. Import Tariffs Are Calculated
 
-> As of **2026-09-28**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-05**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/01-us-tariff-calculation.md)
 
 ## The formula
@@ -50,7 +50,7 @@ In practice, for most e-commerce and wholesale shipments the customs value is th
 
 Two programs still referenced in older material **no longer apply to new entries**:
 
-- **IEEPA "reciprocal" and fentanyl tariffs** (Chapter 99 headings 9903.01 / 9903.02): struck down on 2026-02-24. Duties paid between 2025-02-04 and 2026-02-24 are refundable through the CBP CAPE process — see the [IEEPA refund guide](03-ieepa-tariffs-and-refunds.md).
+- **IEEPA "reciprocal" and fentanyl tariffs** (Chapter 99 headings 9903.01 / 9903.02): held unlawful by the Supreme Court on 2026-02-20 (*Learning Resources, Inc. v. Trump*), with CBP assessments of this layer ending 2026-02-24. Duties paid between 2025-02-04 and 2026-02-24 are refundable through the CBP CAPE process — see the [IEEPA refund guide](03-ieepa-tariffs-and-refunds.md).
 - **The $800 De Minimis exemption**: suspended for all countries since 2025-08-29; low-value shipments now pay the same duty stack — see the [De Minimis guide](02-de-minimis-suspension.md).
 
 ## Specific and compound rates

@@ -1,6 +1,6 @@
 # 商业发票（Commercial Invoice）常见问题
 
-> 信息截至 **2026-09-16**。如页面功能有更新，以[商业发票生成器](https://invoicetariff.com/zh/invoice)为准。
+> 信息截至 **2026-10-05**。如页面功能有更新，以[商业发票生成器](https://invoicetariff.com/zh/invoice)为准。
 > Other language: [English](../en/commercial-invoice-faq.md)
 
 ## 基础问题

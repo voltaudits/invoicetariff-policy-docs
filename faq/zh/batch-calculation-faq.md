@@ -1,6 +1,6 @@
 # 批量测算（SKU Batch Calculator）常见问题
 
-> 信息截至 **2026-09-28**。功能与额度如有调整，以[批量测算页面](https://invoicetariff.com/zh/batch)为准。
+> 信息截至 **2026-10-05**。功能与额度如有调整，以[批量测算页面](https://invoicetariff.com/zh/batch)为准。
 > Other language: [English](../en/batch-calculation-faq.md)
 
 [SKU 批量测算](https://invoicetariff.com/zh/batch)面向「整目录重算关税 / 结算到岸成本」的场景：上传 XLSX/CSV，整表逐行试算，导出带税费的结果表。以下是最常见的问题。

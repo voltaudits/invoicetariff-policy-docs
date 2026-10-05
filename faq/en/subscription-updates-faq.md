@@ -1,6 +1,6 @@
 # Subscription & Updates FAQ (Tariff Radar / Waitlist / API)
 
-> As of **2026-09-16**. The [Tariff Radar page](https://invoicetariff.com/en/radar) is authoritative.
+> As of **2026-10-05**. The [Tariff Radar page](https://invoicetariff.com/en/radar) is authoritative.
 > 其他语言：[中文](../zh/subscription-updates-faq.md)
 
 Tariff rules change almost monthly: 301 exclusion windows, global 301 tiers, new Section 232 sectors, annual MPF adjustments… This page explains how to **subscribe to change alerts**, follow the change log, and get higher limits and API access.
@@ -17,7 +17,7 @@ Yes. Enter your email in the subscription card at the top of the [radar page](ht
 Free. The address is used only to send change alerts (consistent with the [privacy policy](https://invoicetariff.com/en/privacy): no tracking cookies, no ad profiling).
 
 **Q: Why should I care about these changes?**
-Duty follows the **entry date**: the global 301 took effect 2026-07-24, Section 232 pharmaceutical tariffs begin 2026-09-29, MPF min/max change 2026-10-01, and the 178 China exclusions expire **2026-11-10** — each one moves the landed cost of your next shipment (background: [global 301](../../policy/en/05-global-section-301.md), [China 301](../../policy/en/04-section-301-china.md)).
+Duty follows the **entry date**: the global 301 took effect 2026-07-24, Section 232 pharmaceutical tariffs begin 2026-09-29, MPF min/max change 2026-10-01, and the 178 China exclusions expire **2026-11-10** (a truce extension to 2027-01-10 has been announced, pending FR confirmation) — each one moves the landed cost of your next shipment (background: [global 301](../../policy/en/05-global-section-301.md), [China 301](../../policy/en/04-section-301-china.md)).
 
 ## Waitlist and higher limits
 

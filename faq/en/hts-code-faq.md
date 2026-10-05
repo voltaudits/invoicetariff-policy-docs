@@ -1,6 +1,6 @@
 # HTS Code FAQ
 
-> As of **2026-09-16**. Defer to the [HTS lookup page](https://invoicetariff.com/en/hts) and the official USITC tariff schedule.
+> As of **2026-10-05**. Defer to the [HTS lookup page](https://invoicetariff.com/en/hts) and the official USITC tariff schedule.
 > 其他语言：[中文](../zh/hts-code-faq.md)
 
 ## Basics
@@ -30,7 +30,7 @@ Some MFN rates are priced per kilogram (e.g. rice at 2.1¢/kg) or compound ("per
 Under-declaring: CBP recovers the duty plus penalties. Over-declaring: you simply overpay. And deliberately filing a high-rate code as a low-rate one is a violation — same enforcement lane as [transshipment origin washing](../../policy/en/05-global-section-301.md), which CBP actively pursues.
 
 **Q: How do exclusions interact with the code?**
-[Product exclusions](../../policy/en/04-section-301-china.md) are granted per 8/10-digit code: while valid (the current round of 178 runs through **2026-11-10**), the code enters without the China 301 layer — MFN, 232 and the global 301 tier still apply. Have your broker confirm each code's exclusion status before filing.
+[Product exclusions](../../policy/en/04-section-301-china.md) are granted per 8/10-digit code: while valid (the current round of 178 runs through **2026-11-10**; a truce extension to 2027-01-10 has been announced, pending FR confirmation), the code enters without the China 301 layer — MFN, 232 and the global 301 tier still apply. Have your broker confirm each code's exclusion status before filing.
 
 ---
 

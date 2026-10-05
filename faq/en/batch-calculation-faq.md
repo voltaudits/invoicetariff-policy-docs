@@ -1,6 +1,6 @@
 # Batch Calculator FAQ
 
-> As of **2026-09-28**. If features or limits change, the [batch calculator page](https://invoicetariff.com/en/batch) is authoritative.
+> As of **2026-10-05**. If features or limits change, the [batch calculator page](https://invoicetariff.com/en/batch) is authoritative.
 > 其他语言：[中文](../zh/batch-calculation-faq.md)
 
 The [SKU Batch Calculator](https://invoicetariff.com/en/batch) is built for "recalculate the whole catalog / settle landed cost" scenarios: upload an XLSX/CSV, price every row, and export the results with duties and fees. The most common questions are answered below.

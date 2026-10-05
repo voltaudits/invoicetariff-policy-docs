@@ -1,6 +1,6 @@
 # HTS 编码常见问题
 
-> 信息截至 **2026-09-16**。以[HTS 编码查询页](https://invoicetariff.com/zh/hts)与 USITC 官方税则为准。
+> 信息截至 **2026-10-05**。以[HTS 编码查询页](https://invoicetariff.com/zh/hts)与 USITC 官方税则为准。
 > Other language: [English](../en/hts-code-faq.md)
 
 ## 基础问题
@@ -30,7 +30,7 @@ HTS（Harmonized Tariff Schedule of the United States）是美国进口货物的
 少缴：海关追补税款 + 罚金；多缴：白交钱。另外，把高税率编码「故意报成」低税率编码属于违规行为，与[转口洗产地](../../policy/zh/05-global-section-301.md)一样是 CBP 重点执法对象。
 
 **Q：301 排除怎么和编码配合用？**
-[产品排除](../../policy/zh/04-section-301-china.md)是按 8/10 位编码豁免的：排除有效期内（现行 178 项至 **2026-11-10**），对应编码免掉对华 301 那一层，但 MFN、232、全球 301 档照常。报关前让报关行逐码确认排除状态。
+[产品排除](../../policy/zh/04-section-301-china.md)是按 8/10 位编码豁免的：排除有效期内（现行 178 项至 **2026-11-10**；停战延长至 2027-01-10 已宣布、待 FR 落地确认），对应编码免掉对华 301 那一层，但 MFN、232、全球 301 档照常。报关前让报关行逐码确认排除状态。
 
 ---
 

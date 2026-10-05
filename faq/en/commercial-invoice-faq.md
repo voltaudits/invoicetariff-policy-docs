@@ -1,6 +1,6 @@
 # Commercial Invoice FAQ
 
-> As of **2026-09-16**. If features change, the [invoice generator page](https://invoicetariff.com/en/invoice) is authoritative.
+> As of **2026-10-05**. If features change, the [invoice generator page](https://invoicetariff.com/en/invoice) is authoritative.
 > 其他语言：[中文](../zh/commercial-invoice-faq.md)
 
 ## Basics

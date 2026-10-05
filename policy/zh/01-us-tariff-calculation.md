@@ -1,6 +1,6 @@
 # 美国进口关税是怎么算的
 
-> 信息截至 **2026-09-28**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
+> 信息截至 **2026-10-05**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
 > Other language: [English](../en/01-us-tariff-calculation.md)
 
 ## 一句话公式
@@ -50,7 +50,7 @@
 
 两个仍被时常提及、但已**不适用于新报关**的项目：
 
-- **IEEPA「对等关税」与芬太尼关税**（Chapter 99 税号 9903.01 / 9903.02）：2026-02-24 被最高法院裁定违法后终止；2025-02-04 至 2026-02-24 期间缴纳的税款可经 CBP CAPE 流程申请退还——见 [IEEPA 退税详解](03-ieepa-tariffs-and-refunds.md)。
+- **IEEPA「对等关税」与芬太尼关税**（Chapter 99 税号 9903.01 / 9903.02）：2026-02-20 被最高法院裁定违法（*Learning Resources, Inc. v. Trump*），CBP 对该层的评估至 2026-02-24 止；2025-02-04 至 2026-02-24 期间缴纳的税款可经 CBP CAPE 流程申请退还——见 [IEEPA 退税详解](03-ieepa-tariffs-and-refunds.md)。
 - **De Minimis 800 美元免税额度**：自 2025-08-29 起对所有国家暂停，低值包裹按同一套关税栈计税——见 [De Minimis 详解](02-de-minimis-suspension.md)。
 
 ## 从量税与复合税

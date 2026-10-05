@@ -1,15 +1,21 @@
 # The $800 De Minimis Exemption and Its Suspension
 
-> As of **2026-09-16**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-05**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/02-de-minimis-suspension.md)
 
 ## What De Minimis was
 
 De minimis (19 U.S.C. § 1321, often called "Section 321") allowed shipments valued at **$800 or less** to enter the U.S. duty-free, fee-free, with minimal formalities. It was the backbone of direct-to-consumer e-commerce (the Shein / Temu model) shipping low-value parcels straight to U.S. shoppers.
 
-## Where it stands: suspended for all countries
+## Where it stands: suspended for all countries, indefinitely
 
 **Since 2025-08-29, the $800 de minimis exemption is suspended for every country.** Low-value parcels — from China or anywhere else — now pay the normal duty stack: the MFN base rate plus any Section 301/232 layers that apply (layers add and never compound — see [how U.S. tariffs are calculated](01-us-tariff-calculation.md)).
+
+How the suspension has evolved (as of 2026-10-05):
+
+- **2026-02-25**: a presidential proclamation continued the suspension for all countries (FR 2026-03829) — the exemption was not restored in the IEEPA wind-down.
+- **2026-06-24**: the suspension became **indefinite** (FR 2026-12670, non-postal channels effective that day; FR 2026-12669, postal/mail channels effective 2026-07-24 with a new postal informal-entry process) — there is **no restoration date**.
+- **Judicial review is pending**: the de minimis questions are before the Court of International Trade (*Axle of Dearborn, Inc. v. Department of Commerce*), which expressly left de minimis unaddressed in the IEEPA refund orders (91 FR 63299). Until a ruling, the **suspension stays in force** — plan costs on the taxable stack.
 
 For low-value shipments this means three things:
 

@@ -10,7 +10,7 @@ Section 301 of the Trade Act of 1974 lets the United States Trade Representative
 Two neighboring programs are often confused with it:
 
 - **Section 232** is product-based, not country-based — steel, aluminum, copper, autos and other sectors are charged regardless of origin.
-- **The IEEPA tariffs** (the 2025 "fentanyl" and "reciprocal" layers) were struck down by the Supreme Court on 2026-02-24 and are being refunded — see the [IEEPA refund guide](03-ieepa-tariffs-and-refunds.md). **Section 301 was never part of that ruling and remains fully in force.**
+- **The IEEPA tariffs** (the 2025 "fentanyl" and "reciprocal" layers) were held unlawful by the Supreme Court on 2026-02-20 (*Learning Resources, Inc. v. Trump*; assessments ended 2026-02-24) and are being refunded — see the [IEEPA refund guide](03-ieepa-tariffs-and-refunds.md). **Section 301 was never part of that ruling and remains fully in force.**
 
 The China Section 301 program dates to the 2018–2019 USTR actions on technology transfer and intellectual property practices. It is reported at entry through Chapter 99 headings (the 9903.88.xx series) next to the regular 8/10-digit HTS line.
 
@@ -54,7 +54,7 @@ Exclusions are claimed at entry via the Chapter 99 reporting line on your custom
 | Date | What changed |
 |---|---|
 | 2025-01-01 | Four-year review increases apply (e.g. solar cells 50%) |
-| 2026-02-24 | IEEPA "reciprocal"/fentanyl tariffs struck down — 301 unaffected |
+| 2026-02-20 | IEEPA "reciprocal"/fentanyl tariffs held unlawful by the Supreme Court (assessments ended 02-24) — 301 unaffected |
 | 2026-07-01 | 4 China exclusions re-mapped to new HTS breakouts (FR 2026-17925) |
 | 2026-07-24 | Global Section 301 tiers take effect (in-transit grace to 2026-07-28) |
 | 2026-09-23 | U.S.–China truce extension to 2027-01-10 announced (FR pending; until confirmed, exclusions run to 11-10) |

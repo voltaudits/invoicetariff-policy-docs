@@ -1,13 +1,13 @@
 # The Global Section 301 Program (Effective 2026-07-24): Country Tiers
 
-> As of **2026-09-16**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-05**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/05-global-section-301.md)
 
 ## What this new program is
 
 Under **FR 2026-15181 (91 FR 47318)**, USTR established a *separate* Section 301 program based on **forced-labor findings**, effective **2026-07-24** (goods loaded before that date kept prior treatment through 2026-07-28). It is not an amendment to the China 301 — it is a **global, tiered regime covering roughly 60 economies**, reported at entry through Chapter 99 like any other 301 layer.
 
-Note: the program **is under litigation** — a challenge is pending at the Court of International Trade (CIT). **CBP is collecting the duty in the meantime**, so plan cash flow on the assumption it applies.
+Note: the program **is under litigation** — a consolidated challenge by 25 state attorneys general (*Oregon et al. v. Trump*, filed 2026-08-03) and by several businesses is pending at the Court of International Trade (CIT), which **held oral argument on 2026-09-30**; no ruling had issued as of 2026-10-05. Challengers argue the program is forced-labor relief in name only — a way to keep the Supreme Court-struck IEEPA global tariffs alive through Section 301. **CBP is collecting the duty in the meantime**, so plan cash flow on the assumption it applies — if it is later struck down, refunds along the IEEPA precedent become possible (see the [IEEPA refund guide](03-ieepa-tariffs-and-refunds.md)).
 
 ## The country tiers
 

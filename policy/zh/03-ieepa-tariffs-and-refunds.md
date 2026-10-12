@@ -1,6 +1,6 @@
 # IEEPA 关税终止与退税（CAPE 流程）
 
-> 信息截至 **2026-10-05**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
+> 信息截至 **2026-10-12**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
 > Other language: [English](../en/03-ieepa-tariffs-and-refunds.md)
 
 ## IEEPA 关税是什么

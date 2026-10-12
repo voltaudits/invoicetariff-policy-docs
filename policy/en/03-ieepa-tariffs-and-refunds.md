@@ -1,6 +1,6 @@
 # IEEPA Tariffs Struck Down & How to Get Refunds (CAPE)
 
-> As of **2026-10-05**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-12**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/03-ieepa-tariffs-and-refunds.md)
 
 ## What the IEEPA tariffs were

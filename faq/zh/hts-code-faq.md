@@ -1,6 +1,6 @@
 # HTS 编码常见问题
 
-> 信息截至 **2026-10-05**。以[HTS 编码查询页](https://invoicetariff.com/zh/hts)与 USITC 官方税则为准。
+> 信息截至 **2026-10-12**。以[HTS 编码查询页](https://invoicetariff.com/zh/hts)与 USITC 官方税则为准。
 > Other language: [English](../en/hts-code-faq.md)
 
 ## 基础问题

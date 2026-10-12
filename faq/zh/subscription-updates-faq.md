@@ -1,6 +1,6 @@
 # 订阅与关税动态常见问题（关税雷达 / Waitlist / API）
 
-> 信息截至 **2026-10-05**。以[关税雷达](https://invoicetariff.com/zh/radar)页面为准。
+> 信息截至 **2026-10-12**。以[关税雷达](https://invoicetariff.com/zh/radar)页面为准。
 > Other language: [English](../en/subscription-updates-faq.md)
 
 关税规则几乎是「月更」：301 排除窗口、全球 301 分层、232 新行业、MPF 年度调整……本页说明怎么**订阅变更提醒**、怎么跟进动态、以及怎么获得更高额度与 API。

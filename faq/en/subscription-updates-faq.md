@@ -1,6 +1,6 @@
 # Subscription & Updates FAQ (Tariff Radar / Waitlist / API)
 
-> As of **2026-10-12**. The [Tariff Radar page](https://invoicetariff.com/en/radar) is authoritative.
+> As of **2026-10-19**. The [Tariff Radar page](https://invoicetariff.com/en/radar) is authoritative.
 > 其他语言：[中文](../zh/subscription-updates-faq.md)
 
 Tariff rules change almost monthly: 301 exclusion windows, global 301 tiers, new Section 232 sectors, annual MPF adjustments… This page explains how to **subscribe to change alerts**, follow the change log, and get higher limits and API access.

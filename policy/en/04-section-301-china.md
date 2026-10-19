@@ -1,6 +1,6 @@
 # Section 301 Tariffs on China: Lists, Rates & Exclusions
 
-> As of **2026-10-12**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-19**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/04-section-301-china.md)
 
 ## What Section 301 is
@@ -43,7 +43,7 @@ A **product exclusion** is USTR's waiver of the 301 layer for a specific 8/10-di
 Current state of play:
 
 - **178 China product exclusions are extended through 2026-11-10** (FR 2025-21671, published 2025-12-01). After that date they lapse unless extended again.
-- **A truce extension has been announced (2026-09-23)**: the U.S. and China announced a two-month extension of the truce to **2027-01-10** — under the announced terms, the 178 exclusions and the port-fee suspension roll forward with it. However, **as of 2026-10-12 no Federal Register notice implementing the extension has been published** — until FR confirmation, **2026-11-10 remains the operative date**. The [Tariff Radar](https://invoicetariff.com/en/radar) tracks follow-through.
+- **A truce extension has been announced (2026-09-23)**: the U.S. and China announced a two-month extension of the truce to **2027-01-10** — under the announced terms, the 178 exclusions and the port-fee suspension roll forward with it. However, **as of 2026-10-19 no Federal Register notice implementing the extension has been published** — until FR confirmation, **2026-11-10 remains the operative date**. The [Tariff Radar](https://invoicetariff.com/en/radar) tracks follow-through.
 - **The four-year review has confirmed continuation (2026-10-07, FR 2026-20510)**: in the second statutory four-year review, the domestic industries benefiting from both actions requested their continuation — USTR confirmed the actions **have not terminated and remain in effect**, subject to possible further modifications from the review.
 - Four of those exclusions were re-mapped to new HTS statistical breakouts effective **2026-07-01** (FR 2026-17925); following the same USITC statistical changes, USTR conformed **one additional exclusion** on **2026-10-07** (FR 2026-20511) — if you claimed any of them before, re-check the code on recent entries.
 - The global program has its own Annex I/II exemption lists, which apply across all covered economies.

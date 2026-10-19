@@ -1,6 +1,6 @@
 # How U.S. Import Tariffs Are Calculated
 
-> As of **2026-10-12**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-19**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/01-us-tariff-calculation.md)
 
 ## The formula
@@ -43,7 +43,7 @@ In practice, for most e-commerce and wholesale shipments the customs value is th
 | **MFN base rate** (HTSUS column 1, "General") | Tariff Act of 1930; HTSUS column 1 | Every country with normal trade relations | Fixed per 8/10-digit HTS code by the USITC: "Free", a percentage, or a specific / compound rate |
 | **China Section 301** (Lists 1–4A + four-year-review increases) | Trade Act of 1974 § 301 (USTR) | Goods of Chinese origin only | 25% on Lists 1–3, 7.5% on List 4A; higher review rates on targeted products (e.g. solar cells 50%) |
 | **Global Section 301 program** | Trade Act of 1974 § 301 (USTR, effective 2026-07-24) | Country-specific tiers — 12.5% for China, 10% for the UK, etc., with combined caps for some partners | Set per economy in FR 2026-15181; product exclusions published separately |
-| **Section 232** | Trade Expansion Act of 1962 § 232 (Presidential proclamations) | Specific sectors regardless of origin: steel & aluminum 50%, copper 50%, autos & parts 25%, timber 10%, furniture 25%, semiconductors 25%, pharmaceuticals (general tier 20% from 2026-09-29) | By HTS scope listed in each proclamation annex; some derivatives on metal content only |
+| **Section 232** | Trade Expansion Act of 1962 § 232 (Presidential proclamations) | Specific sectors regardless of origin: steel & aluminum 50%, copper 50%, autos & parts 25%, timber 10%, furniture 25%, semiconductors 25%, pharmaceuticals (general tier 20% from 2026-09-29) | By HTS scope listed in each proclamation annex; some derivatives on metal content only; USMCA-qualifying Canada/Mexico goods determine "U.S. content" under BIS's two-part test (91 FR 65162, from 2026-10-14) |
 | **Section 338** | Tariff Act of 1930 § 338 (19 U.S.C. § 1338, Presidential proclamations) | Goods of countries found to discriminate against U.S. commerce — currently Canadian motor vehicles, dairy and alcoholic beverages (50%, since 2026-08-22) | Up to 50% by proclamation; stacks on other layers but not on goods already under Section 232 |
 | **AD / CVD** | Tariff Act of 1930 Title VII (Commerce / ITC) | Named producers or countries in a specific case | Case-by-case rates, often very high; deposited at entry, finalized later |
 | **MPF + HMF** | 19 U.S.C. § 58c (MPF); 26 U.S.C. § 4461 (HMF) | Every formal entry (HMF: ocean only) | MPF 0.3464% of value with per-entry floor and cap; HMF 0.125% |

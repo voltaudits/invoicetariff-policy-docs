@@ -1,6 +1,6 @@
 # IEEPA Tariffs Struck Down & How to Get Refunds (CAPE)
 
-> As of **2026-10-12**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-19**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/03-ieepa-tariffs-and-refunds.md)
 
 ## What the IEEPA tariffs were
@@ -51,7 +51,10 @@ To estimate what you can recover, and check eligibility and timing, use the site
 
 ## Will things change again
 
-The refund machinery is still evolving: on 2026-10-05 CBP submitted the "Court-Ordered Refunds under the IEEPA Worksheet" collection for PRA extension review to OMB (91 FR 63299, comment window through 2026-11-04), and refund pacing and case-by-case guidance may still move — the [Tariff Radar](https://invoicetariff.com/en/radar) scans official sources every 12 hours; [subscribe to email alerts](https://invoicetariff.com/en/radar) for first-hand changes with Federal Register citations.
+The refund machinery is still evolving — two recent moves (as of 2026-10-19):
+
+- **2026-10-08**: the CIT **certified a nationwide class** (Rule 23(b)(2)) in *Freestyle World, Inc. v. United States* (Slip Op. 26-123), covering importers who paid IEEPA duties between February 2025 and February 2026 and **have not filed their own refund suits** — if that is you, no separate action is needed to be included. But **certification is not a refund**: the class-wide injunction and CBP's class-wide processing come next; until then the CAPE process keeps running, and filing directly through ACE remains the fastest path.
+- **2026-10-05**: CBP submitted the "Court-Ordered Refunds under the IEEPA Worksheet" collection for PRA extension review to OMB (91 FR 63299, comment window through 2026-11-04), and refund pacing and case-by-case guidance may still move — the [Tariff Radar](https://invoicetariff.com/en/radar) scans official sources every 12 hours; [subscribe to email alerts](https://invoicetariff.com/en/radar) for first-hand changes with Federal Register citations.
 
 ---
 

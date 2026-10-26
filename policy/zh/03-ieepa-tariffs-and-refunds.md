@@ -1,6 +1,6 @@
 # IEEPA 关税终止与退税（CAPE 流程）
 
-> 信息截至 **2026-10-19**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
+> 信息截至 **2026-10-26**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
 > Other language: [English](../en/03-ieepa-tariffs-and-refunds.md)
 
 ## IEEPA 关税是什么
@@ -51,7 +51,7 @@
 
 ## 之后还会变吗
 
-退税机制仍在快速演进，近期两项动向（截至 2026-10-19）：
+退税机制仍在快速演进，近期两项动向（截至 2026-10-26）：
 
 - **2026-10-08**：CIT 在 *Freestyle World, Inc. v. United States*（Slip Op. 26-123）中批准**全国级集体诉讼**（Rule 23(b)(2)），覆盖 2025 年 2 月至 2026 年 2 月期间缴纳 IEEPA 关税、且**未自行起诉**退税的进口商——未单独起诉者无需再行动即可被纳入。但**批准集体 ≠ 发放退款**：下一步是集体禁令与 CBP 按集体统一处理，在此之前 CAPE 流程照常运转，经 ACE 主动申报仍是最快路径。
 - **2026-10-05**：CBP 就「Court-Ordered Refunds under the IEEPA Worksheet」向 OMB 提交 PRA 延期复审（91 FR 63299，意见期至 2026-11-04），退款节奏与个案口径还可能有新变化——[关税雷达](https://invoicetariff.com/zh/radar)每 12 小时扫描官方来源，建议[订阅邮件提醒](https://invoicetariff.com/zh/radar)拿到第一手变更与 Federal Register 出处。

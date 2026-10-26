@@ -1,6 +1,6 @@
 # The $800 De Minimis Exemption and Its Suspension
 
-> As of **2026-10-19**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-10-26**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/02-de-minimis-suspension.md)
 
 ## What De Minimis was
@@ -11,18 +11,19 @@ De minimis (19 U.S.C. § 1321, often called "Section 321") allowed shipments val
 
 **Since 2025-08-29, the $800 de minimis exemption is suspended for every country.** Low-value parcels — from China or anywhere else — now pay the normal duty stack: the MFN base rate plus any Section 301/232 layers that apply (layers add and never compound — see [how U.S. tariffs are calculated](01-us-tariff-calculation.md)).
 
-How the suspension has evolved (as of 2026-10-19):
+How the suspension has evolved (as of 2026-10-26):
 
 - **2026-02-25**: a presidential proclamation continued the suspension for all countries (FR 2026-03829) — the exemption was not restored in the IEEPA wind-down.
 - **2026-06-24**: the suspension became **indefinite** (FR 2026-12670, non-postal channels effective that day; FR 2026-12669, postal/mail channels effective 2026-07-24 with a new postal informal-entry process) — there is **no restoration date**.
 - **2026-10-08**: CBP published a proposed rule on **Low-Value Shipments** (FR 2026-20650, 91 FR 64532) — it would revise informal-entry filing requirements for goods valued at $2,500 or less, create a new electronic informal entry type for the mail environment, add a carrier data element for mail shipments, and impose bonding requirements on certain informal entries; comments close **2026-12-07**. The suspension itself is unchanged, but low-value entry details are being refined along this framework.
+- **2026-10-22**: CBP extended, from 2026-10-22 to **2027-01-20**, the compliance date on which mail goods that do not qualify for postal informal entry (PGA data requirements, Chapter 98/99 duties, or FTA preference claims) must file formally under the June 24 postal rule (FR 2026-21600). The same day it relaxed the ACE "Entry Type 13" postal electronic informal-entry test — filings may temporarily omit complete PGA (partner government agency) data (FR 2026-21570, 91 FR 66707). Both are procedural; **the suspension itself is unchanged**.
 - **Judicial review is pending**: the de minimis questions are before the Court of International Trade (*Axle of Dearborn, Inc. v. Department of Commerce*), which expressly left de minimis unaddressed in the IEEPA refund orders (91 FR 63299). Until a ruling, the **suspension stays in force** — plan costs on the taxable stack.
 
 For low-value shipments this means three things:
 
 1. **No more duty-free direct mail.** A $500 parcel in a 7.5% + 12.5% stack owes 20% duty, plus fees.
 2. **Compliance now reaches small parcels.** Sellers who previously ignored HTS codes and origin must now declare both accurately on every shipment — a wrong code makes the whole stack wrong.
-3. **Postal channels keep a special arrangement.** Postal informal entries (≤ $2,500) pay a flat fee instead of ad valorem MPF — but the duty itself is still owed. The arrangement is being refined under the 2026-10-08 Low-Value Shipments proposal (FR 2026-20650).
+3. **Postal channels keep a special arrangement.** Postal informal entries (≤ $2,500) pay a flat fee instead of ad valorem MPF — but the duty itself is still owed. The arrangement is being refined under the 2026-10-08 Low-Value Shipments proposal (FR 2026-20650), and the formal-entry deadline for non-qualifying mail goods has been pushed to 2027-01-20 (FR 2026-21600).
 
 ## Who is affected most
 

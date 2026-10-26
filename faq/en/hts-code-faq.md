@@ -1,6 +1,6 @@
 # HTS Code FAQ
 
-> As of **2026-10-19**. Defer to the [HTS lookup page](https://invoicetariff.com/en/hts) and the official USITC tariff schedule.
+> As of **2026-10-26**. Defer to the [HTS lookup page](https://invoicetariff.com/en/hts) and the official USITC tariff schedule.
 > 其他语言：[中文](../zh/hts-code-faq.md)
 
 ## Basics

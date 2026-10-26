@@ -1,6 +1,6 @@
 # 美国进口关税是怎么算的
 
-> 信息截至 **2026-10-19**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
+> 信息截至 **2026-10-26**。关税政策时效性强，最新变化请见 [关税雷达（变更日志 + 邮件提醒）](https://invoicetariff.com/zh/radar)。
 > Other language: [English](../en/01-us-tariff-calculation.md)
 
 ## 一句话公式

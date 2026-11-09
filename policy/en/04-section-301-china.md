@@ -1,6 +1,6 @@
 # Section 301 Tariffs on China: Lists, Rates & Exclusions
 
-> As of **2026-11-02**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
+> As of **2026-11-09**. Tariff policy changes frequently — see the [Tariff Radar (change log + email alerts)](https://invoicetariff.com/en/radar) for the latest.
 > 其他语言：[中文](../zh/04-section-301-china.md)
 
 ## What Section 301 is
@@ -43,7 +43,7 @@ A **product exclusion** is USTR's waiver of the 301 layer for a specific 8/10-di
 Current state of play:
 
 - **178 China product exclusions are extended through 2026-11-10** (FR 2025-21671, published 2025-12-01). After that date they lapse unless extended again.
-- **A truce extension has been announced (2026-09-23), and the comment window on the port-fee re-suspension has closed (RFC of 2026-10-26, closed 10-30)**: the U.S. and China announced a two-month extension of the truce to **2027-01-10** — under the announced terms, the 178 exclusions and the port-fee suspension roll forward with it. On **2026-10-26 USTR published FR 2026-21755**, requesting comments on **further suspending the China maritime/logistics/shipbuilding Section 301 action (port fees) for two months** after the current one-year suspension lapses (2026-11-10 00:00 through 2027-01-09 23:59 ET; docket USTR-2026-0694); the comment window closed on **2026-10-30**, and **as of 2026-11-02 the formal modification notice has not yet issued** — until it does, the port-fee pause should be planned against the current one-year suspension **expiring 2026-11-10**. **No Federal Register notice extending the 178 exclusions has been published either** — until confirmed, **2026-11-10 remains the operative date**. The [Tariff Radar](https://invoicetariff.com/en/radar) tracks follow-through.
+- **A truce extension has been announced (2026-09-23), and the comment window on the port-fee re-suspension has closed (RFC of 2026-10-26, closed 10-30)**: the U.S. and China announced a two-month extension of the truce to **2027-01-10** — under the announced terms, the 178 exclusions and the port-fee suspension roll forward with it. On **2026-10-26 USTR published FR 2026-21755**, requesting comments on **further suspending the China maritime/logistics/shipbuilding Section 301 action (port fees) for two months** after the current one-year suspension lapses (2026-11-10 00:00 through 2027-01-09 23:59 ET; docket USTR-2026-0694); the comment window closed on **2026-10-30**, and **as of 2026-11-09 the formal modification notice has not yet issued** — the re-suspension window opens the next day, so until the notice prints, the port-fee pause should be planned against the current one-year suspension **expiring 2026-11-10**. On **2026-11-06**, USTR Greer and Treasury Secretary Bessent held another videoconference with China's lead trade official He Lifeng — the economic-and-trade talks continue. **No Federal Register notice extending the 178 exclusions has been published either** — until confirmed, **2026-11-10 remains the operative date**. The [Tariff Radar](https://invoicetariff.com/en/radar) tracks follow-through.
 - **The four-year review has confirmed continuation (2026-10-07, FR 2026-20510)**: in the second statutory four-year review, the domestic industries benefiting from both actions requested their continuation — USTR confirmed the actions **have not terminated and remain in effect**, subject to possible further modifications from the review.
 - Four of those exclusions were re-mapped to new HTS statistical breakouts effective **2026-07-01** (FR 2026-17925); following the same USITC statistical changes, USTR conformed **one additional exclusion** on **2026-10-07** (FR 2026-20511) — if you claimed any of them before, re-check the code on recent entries.
 - The global program has its own Annex I/II exemption lists, which apply across all covered economies.
@@ -61,7 +61,8 @@ Exclusions are claimed at entry via the Chapter 99 reporting line on your custom
 | 2026-09-23 | U.S.–China truce extension to 2027-01-10 announced (until confirmed, exclusions run to 11-10) |
 | 2026-10-07 | Four-year review confirms both actions continue (FR 2026-20510); one more exclusion re-mapped (FR 2026-20511) |
 | 2026-10-26 | USTR requests comments on a further two-month suspension of the China maritime 301 action (FR 2026-21755, comments due 10-30) |
-| 2026-11-10 | Current China exclusion round (178) expires unless the FR confirms the truce-linked extension |
+| 2026-11-06 | USTR Greer and Treasury Secretary Bessent hold another videoconference with China's He Lifeng; talks continue |
+| 2026-11-10 | Current China exclusion round (178) expires; the one-year port-fee suspension lapses the same day — both truce-linked extensions await formal FR confirmation |
 
 Rates are time-bound — the duty depends on the **entry date, not the order date**. The [Tariff Radar](https://invoicetariff.com/en/radar) logs each change with its Federal Register source and offers email alerts.
 
